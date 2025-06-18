@@ -1,2 +1,3 @@
-# Clases_de_algoritmos-
+# Clases_de_git
+
 Clases para aparender git
