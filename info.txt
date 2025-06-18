@@ -1,7 +1,1 @@
- texto para guardar
-
-
-cambios 2
-
-jermias
-galo
+Archivo info.txt
